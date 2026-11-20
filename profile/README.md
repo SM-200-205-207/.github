@@ -29,9 +29,9 @@ Unified open-source custom Android bringup for the Samsung Galaxy Tab A8 10.5" f
 
 ## Core Repositories
 
-* [**android_device_samsung_gta8wifi**](https://github.com/SM-200-205-207/android_device_samsung_gta8wifi): Device tree configuration, init scripts, and audio/VINTF policies.
-* [**android-kernel-smx200-gta8wifi**](https://github.com/SM-200-205-207/android-kernel-smx200-gta8wifi): Linux kernel source (4.14.x) patched for Android 14 AOSP/LineageOS bringup.
-* [**proprietory-vendor-smx200-gta8wifi**](https://github.com/SM-200-205-207/proprietory-vendor-smx200-gta8wifi): Extracted and cleaned vendor prebuilts, firmware, and HALs.
+* [**android_device_samsung_gta8wifi**](https://github.com/SM-200-205-207/android_device_samsung_gta8wifi)
+* [**android-kernel-smx200-gta8wifi**](https://github.com/SM-200-205-207/android-kernel-smx200-gta8wifi)
+* [**proprietory-vendor-smx200-gta8wifi**](https://github.com/SM-200-205-207/proprietory-vendor-smx200-gta8wifi)
 
 ---
 
