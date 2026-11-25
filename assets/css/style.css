@@ -92,13 +92,13 @@ strong, b {
 }
 
 @media (prefers-color-scheme: dark) {
-  em, i, strong, b { color: #c4c4ce; }
+  em, i, strong, b { color: #dadbe2; }
 }
 [data-theme="dark"] em,
 [data-theme="dark"] i,
 [data-theme="dark"] strong,
 [data-theme="dark"] b {
-  color: #c4c4ce;
+  color: #dadbe2;
 }
 [data-theme="light"] em,
 [data-theme="light"] i,
