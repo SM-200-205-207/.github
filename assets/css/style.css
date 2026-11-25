@@ -84,23 +84,27 @@ a {
 }
 
 em, i, strong, b {
-  color: #1a1a1e;
+  color: inherit;
+}
+
+strong, b {
+  font-weight: 600;
 }
 
 @media (prefers-color-scheme: dark) {
-  em, i, strong, b { color: #d0d0d8; }
+  em, i, strong, b { color: #b8b8c2; }
 }
 [data-theme="dark"] em,
 [data-theme="dark"] i,
 [data-theme="dark"] strong,
 [data-theme="dark"] b {
-  color: #d0d0d8;
+  color: #b8b8c2;
 }
 [data-theme="light"] em,
 [data-theme="light"] i,
 [data-theme="light"] strong,
 [data-theme="light"] b {
-  color: #1a1a1e;
+  color: #222226;
 }
 
 .disclaimer-text {
