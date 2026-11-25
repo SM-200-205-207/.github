@@ -92,19 +92,19 @@ strong, b {
 }
 
 @media (prefers-color-scheme: dark) {
-  em, i, strong, b { color: inherit; }
+  em, i, strong, b { color: #c4c4ce; }
 }
 [data-theme="dark"] em,
 [data-theme="dark"] i,
 [data-theme="dark"] strong,
 [data-theme="dark"] b {
-  color: inherit;
+  color: #c4c4ce;
 }
 [data-theme="light"] em,
 [data-theme="light"] i,
 [data-theme="light"] strong,
 [data-theme="light"] b {
-  color: inherit;
+  color: #18181b;
 }
 
 .disclaimer-text {
