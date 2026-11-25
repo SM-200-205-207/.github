@@ -531,7 +531,32 @@ hr {
 }
 
 .step-list > li {
-  margin-bottom: 1.15em;
+  margin-bottom: 1.35em;
+}
+
+.step-list ul,
+.step-list ol {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 24px;
+  padding-left: 0;
+}
+
+.step-list ul li,
+.step-list ol li {
+  margin-bottom: 0.45em;
+}
+
+.step-note {
+  margin-top: 0.6em;
+  margin-left: 24px;
+  padding-left: 12px;
+  border-left: 2px solid #4e4e57;
+  opacity: 0.9;
+}
+
+[data-theme="light"] .step-note {
+  border-left-color: #ccc;
 }
 
 .video-wrapper {
